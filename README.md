@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="1280" src=".github/assets/Capa.png">
+</p>
+
 # Desmistificando APIs: O Que São e Como Elas Transformam o Desenvolvimento de Software
 
 ## O que é uma API?
